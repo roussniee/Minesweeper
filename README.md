@@ -33,6 +33,7 @@ As a personal coding challenge, I built a fully functional Minesweeper game in C
 - Laid groundwork for a future GUI version or cross-platform port
 
 <h2>Program walk-through/Visual aids:</h2>
+<i><b>Still building...</b></i>
 <!--
 <p align="center">
 Launch the utility: <br/>
